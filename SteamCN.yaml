@@ -1,5 +1,5 @@
 payload:
-  # Perfect World Steam
+  # > Steam CN
   - DOMAIN,csgo.wmsj.cn
   - DOMAIN,dota2.wmsj.cn
   - DOMAIN,wmsjsteam.com
@@ -15,7 +15,6 @@ payload:
   - DOMAIN,steampowered.com.8686c.com
   - DOMAIN,steamstatic.com.8686c.com
   
-  # Akamaihd CDN
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net
@@ -25,6 +24,7 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
 
   - DOMAIN,store.steampowered.com
+  - DOMAIN,api.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamcontent.com
